@@ -1,0 +1,4 @@
+{
+    "message": "\ud83c\udf89 Th\u00f4ng b\u00e1o \u0111\u01a1n h\u00e0ng m\u1edbi! \ud83c\udf89\r\n\ud83d\udce6 T\u00ean s\u1ea3n ph\u1ea9m: {TEN_SAN_PHAM}\r\n\ud83c\udd94 ID Ng\u01b0\u1eddi \u0111\u1eb7t: {ID_USER}\r\n\ud83e\udd1d M\u00e3 \u0111\u01a1n h\u00e0ng  ID: {DON_HANG_ID}\r\n\ud83d\udcb5 T\u1ed5ng ti\u1ec1n Paid: {TONG_TIEN}\r\n\ud83d\udd5b Th\u1eddi gian th\u00e0nh to\u00e1n: {PAYMENT_DATE}\r\nCh\u00fac m\u1eebng b\u1ea1n \u0111\u00e3 c\u00f3 \u0111\u01a1n h\u00e0ng m\u1edbi! \ud83c\udf89",
+    "messageContact": null
+}
